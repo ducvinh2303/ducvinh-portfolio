@@ -47,12 +47,3 @@ I enjoy building practical applications, solving real-world problems, and contin
 - Postman
 
 ---
-
-## 📂 Project Structure
-portfolio/
-    ├── app/ # Next.js app router
-    ├── components/ # Reusable UI components
-    ├── lib/ # Data and utilities
-    ├── public/ # Static assets
-    └── README.md
----
