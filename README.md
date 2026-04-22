@@ -7,7 +7,7 @@ This project showcases my technical skills, projects, and experience as an ICT g
 
 ## 🌐 Live Demo
 
-👉 https://your-portfolio.vercel.app  
+👉 https://ducvinh-portfolio.vercel.app/
 
 ---
 
