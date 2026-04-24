@@ -6,7 +6,7 @@ export default function Projects() {
     <section id="projects" className="mx-auto max-w-6xl px-6 py-20">
       <SectionTitle
         eyebrow="Featured Projects"
-        title="Projects that strengthen my CV"
+        title="My Projects"
         description="These projects reflect the kind of practical work I want employers to quickly understand: building, integrating, solving, and delivering useful outcomes."
       />
 
