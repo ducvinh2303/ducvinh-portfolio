@@ -1,4 +1,4 @@
-/*import { projects } from '@/lib/data';
+import { projects } from '@/lib/data';
 import SectionTitle from './section-title';
 
 export default function Projects() {
@@ -75,4 +75,4 @@ export default function Projects() {
       </div>
     </section>
   );
-}*/
+}

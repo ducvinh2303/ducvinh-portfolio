@@ -1,5 +1,7 @@
-export const projects = [
-  {
+export const projects = 
+[
+  
+/*  {
     title: 'Secure Photo Uploader',
     category: 'Mobile App',
     description:
@@ -12,22 +14,26 @@ export const projects = [
       'Contributed to request access and notification features',
       'Worked in a collaborative Agile delivery environment',
     ],
-  },
+  },*/
+
   {
     title: 'Invoice Management Dashboard',
     category: 'Full-Stack Web App',
     description:
       'A responsive dashboard for managing invoices and customer data with authentication, CRUD operations, and database-backed workflows.',
     tech: ['Next.js', 'TypeScript', 'PostgreSQL', 'Tailwind CSS'],
-    github: 'https://github.com/ducvinh2303/invoice-dashboard',
-    demo: 'https://your-demo.vercel.app',
+    github: 'https://github.com/ducvinh2303/nextjs-dashboard',
+    demo: 'https://ducvinh-dashboard.vercel.app/',
     highlights: [
-      'Built full-stack invoice and customer management features',
+      'Basic full-stack invoice and customer management features',
       'Implemented authentication and form handling',
       'Integrated a PostgreSQL database and deployment workflow',
+      'User name: user@nextmail.com', 
+      'Password: 123456',
     ],
   },
-  {
+
+/*  {
     title: 'Solar Panel Image Classification',
     category: 'Machine Learning',
     description:
@@ -40,7 +46,8 @@ export const projects = [
       'Evaluated performance using validation and test datasets',
       'Documented results with metrics and visual analysis',
     ],
-  },
+  }, */
+
 ];
 
 export const skillGroups = [
